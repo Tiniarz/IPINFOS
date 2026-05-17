@@ -1,9 +1,11 @@
 ## IP INFOS
-
-
-
-
 IPINFOS is an advanced terminal utility built for multi-layered network diagnostics, complete IP geolocation analysis, and instant network reconnaissance within a highly synchronized command-line layout.
+
+## Requirements and Packages
+**Colorama: pip install colorama**
+**Requests: pip install requests**
+**Python: Python 3.x**
+**OS: Linux,Windows and MacOS!**
 
 ## Features
 
@@ -19,4 +21,4 @@ IPINFOS is an advanced terminal utility built for multi-layered network diagnost
 Execute the application inside your configured terminal environment:
 
 ```bash
-python ip_lookup.py
+python ip_lookup.py or double click the python file
