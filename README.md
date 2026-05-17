@@ -23,4 +23,4 @@ IPINFOS is an advanced terminal utility built for multi-layered network diagnost
 ## Quick Start
 Double click the python file or type this in the terminal:
 ```bash
-python ip_lookup.py
+python IPINFOS.py or python IPINFOSVx.py
