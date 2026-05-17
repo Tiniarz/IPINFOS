@@ -21,8 +21,6 @@ IPINFOS is an advanced terminal utility built for multi-layered network diagnost
 - **Secret Menu: Theres a secret menu in IPINFOS!**
 
 ## Quick Start
-
-Execute the application inside your configured terminal environment
 Double click the python file or type this in the terminal:
 ```bash
 python ip_lookup.py
