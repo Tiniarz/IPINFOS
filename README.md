@@ -12,6 +12,7 @@ IPINFOS is an advanced terminal utility built for multi-layered network diagnost
 - **Profiling Triggers:** Cross-references addresses against registered operational ranges for routing proxies, anonymity relays (Tor), commercial hosting providers, and cellular pools.
 - **Attack Surface Audit:** Inspects localized connection stability on 15 core service pathways (SSH, HTTP, HTTPS, SMB, RDP, etc.) to evaluate active socket parameters.
 - **Synchronized Typography:** Generates timed line-by-line render intervals at exactly 0.05 seconds with multi-tone spectrum coloring using dark accents for art containers and vivid highlights for operational telemetry.
+- **Secret Menu: Theres a secret menu in IPINFOS!**
 
 ## Quick Start
 
